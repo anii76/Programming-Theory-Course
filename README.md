@@ -9,7 +9,7 @@ Write a program to calculate the articulation points of a graph. An articulation
 ### [Solution](./graph-articulation-points/) 
 
 ## TP 3: Travelling Salesman Problem
-Given a complete undirected graph labeled with strictly positive weights, determine the minimum-weight Hamiltonian cycle (Shortest path). Use [this](./pvc/PVC.png) graph to test your solution.
+Given a complete undirected graph labeled with strictly positive weights, determine the minimum-weight Hamiltonian cycle (Shortest path). Use [this](./pvc/PVC.jpg) graph to test your solution.
 ### [Solution](./pvc/)
 
 ## TP 4: Chess Estimation Function
