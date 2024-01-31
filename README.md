@@ -9,10 +9,9 @@ Write a program to calculate the articulation points of a graph. An articulation
 ### [Solution](./graph-articulation-points/) 
 
 ## TP 3: Travelling Salesman Problem
-Given a complete undirected graph labeled with strictly positive weights, determine the minimum-weight Hamiltonian cycle (Shortest path). Use the following graph to test your solution.
-![](./pvc/PVC.png)
+Given a complete undirected graph labeled with strictly positive weights, determine the minimum-weight Hamiltonian cycle (Shortest path). Use [this](./pvc/PVC.png) graph to test your solution.
 ### [Solution](./pvc/)
 
 ## TP 4: Chess Estimation Function
-The program in [`jeu.c`](./chess-minimax/jeu.c) is a machine playing chess with a user using MINIMAX algorithm. This program uses an estimation function that is not optimized. The goal of this work is to create a more refined and precise estimation function. 
-### [Solution](./chess-minimax/)
+The program in [`jeu.c`](./chess-minmax/jeu.c) is a machine playing chess with a user using MINIMAX algorithm. This program uses an estimation function that is not optimized. The goal of this work is to create a more refined and precise estimation function. 
+### [Solution](./chess-minmax/)
